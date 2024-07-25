@@ -34,10 +34,10 @@
 
 // export default App
 
-import ListGroup from "./components/ListGroup";
+import Menu from "./components/Menu";
 
 function App() {
-  return <ListGroup />;
+  return <Menu />;
 }
 
 export default App;
